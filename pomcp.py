@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+
+"""
+Testing POMCPs for detailed understanding
+"""
+
 from __future__ import print_function
 from pomdpy import Agent
 from pomdpy.solvers import POMCP
