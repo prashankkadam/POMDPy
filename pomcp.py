@@ -7,6 +7,8 @@ from examples.rock_sample import RockModel
 import argparse
 import numpy as np
 
+# prashank
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Set the run parameters.')
